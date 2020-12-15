@@ -8,22 +8,22 @@ LINK = https://github.com/Preeti-Pradhan/IT-PROJECT-ADMIN-WORK
 ROLE OF ADMIN
 •	Login Page
 •	Vendor Management
-      Add Vendors
-      Delete Vendors
-      Edit Vendors Details
-      Set Status To Active or Deactive
+                  1) Add Vendors
+                  2) Delete Vendors
+                  3) Edit Vendors Details
+                  4) Set Status To Active or Deactive
 •	Customer Management
-      Delete Customer Details
+                  1) Delete Customer Details
 •	Categories Management
-      Add Categories
-      Delete Categories 
-      Edit Categories Details
-      Set Status To Active or Deactive
+                  1) Add Categories
+                  2) Delete Categories 
+                  3) Edit Categories Details
+                  4) Set Status To Active or Deactive
 •	Coupon Details
-      Add Coupon 
-      Delete Coupon 
-      Edit Coupon Categories
-      Set Status To Active or Deactive
+                  1) Add Coupon 
+                  2) Delete Coupon 
+                  3) Edit Coupon Categories
+                  4) Set Status To Active or Deactive
 •	Contact Us Details
-      Delete Contact Us Details
-      Edit Contact Us Details
+                  1) Delete Contact Us Details
+                  2) Edit Contact Us Details
