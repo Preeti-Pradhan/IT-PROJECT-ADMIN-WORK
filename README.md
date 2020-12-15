@@ -1,11 +1,12 @@
 # IT-PROJECT-ADMIN-WORK
 
-ADMIN PANEL 
+# ADMIN PANEL 
+
 Administration side of the store is where you can modify features, upload images, add vendors, add categories, add coupon and keep track of customers and much more. 
 To run this program extract the source code from my github repository.
 
 LINK = https://github.com/Preeti-Pradhan/IT-PROJECT-ADMIN-WORK
-ROLE OF ADMIN
+# ROLE OF ADMIN
 •	Login Page
 •	Vendor Management
                   1) Add Vendors
