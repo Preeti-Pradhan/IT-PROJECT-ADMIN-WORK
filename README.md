@@ -6,6 +6,11 @@ Administration side of the store is where you can modify features, upload images
 To run this program extract the source code from my github repository.
 
 LINK = https://github.com/Preeti-Pradhan/IT-PROJECT-ADMIN-WORK
+
+To watch the demo of admin panel
+
+LINK = https://youtu.be/9kWhJ8Vjch8
+
 # ROLE OF ADMIN
 •	Login Page
 •	Vendor Management
