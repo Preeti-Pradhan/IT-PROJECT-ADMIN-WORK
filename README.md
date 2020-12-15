@@ -28,3 +28,13 @@ LINK = https://github.com/Preeti-Pradhan/IT-PROJECT-ADMIN-WORK
 •	Contact Us Details
                   1) Delete Contact Us Details
                   2) Edit Contact Us Details
+
+
+# My social media profiles (feel free to connect):-
+https://github.com/Preeti-Pradhan
+
+https://www.instagram.com/_preeti_pradhan_
+
+https://www.facebook.com/preeti.pradhan.16752
+
+https://www.linkedin.com/in/preeti-93b72a1b5
