@@ -30,10 +30,10 @@ LINK = https://github.com/Preeti-Pradhan/IT-PROJECT-ADMIN-WORK
                   2) Edit Contact Us Details
 
 
-# My social media profiles (feel free to connect):-
+# My social media profiles 
 https://github.com/Preeti-Pradhan
 
-https://www.instagram.com/_preeti_pradhan_
+https://www.instagram.com/_preeti_pradhan_?r=nametag
 
 https://www.facebook.com/preeti.pradhan.16752
 
